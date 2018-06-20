@@ -1,4 +1,3 @@
-random
 scipy
 matplotlib
 numpy
